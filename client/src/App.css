@@ -1,0 +1,11 @@
+/* Styles go here */
+.App {
+  display: flex;
+  justify-content: center;
+}
+img {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+

@@ -1,0 +1,97 @@
+[
+    {
+       "id": 0,
+       "title":"50 California Street",
+       "images":[
+          "50-california-st.jpg"
+       ]
+    },
+
+    {
+       "id": 1,
+       "title":"101 California",
+       "images":[
+          "101-california.jpg"
+       ]
+    },
+
+    {
+       "id": 2,
+       "title":"343 Sansome Roof Garden",
+       "images":[
+          "343-sansome-roof-garden.jpg"
+       ]
+    },
+
+    {
+      "id": 3,
+      "title":"555 California",
+      "images":[
+         "555-california.jpg"
+      ]
+    },
+
+    {
+       "id": 4,
+       "title":"Empire Park",
+       "images":[
+          "empire-park.jpg"
+       ]
+    },
+
+    {
+        "id": 5,
+       "title":"Garden Terrace at 150 California",
+       "images":[
+          "garden-terrace-at-150-california.jpg"
+       ]
+    },
+    
+    {
+        "id": 6,
+        "title":"50 California Street",
+        "images":[
+           "50-california-st.jpg"
+        ]
+    },
+ 
+    {
+        "id": 7,
+        "title":"101 California",
+        "images":[
+           "101-california.jpg"
+        ]
+    },
+ 
+    {
+        "id": 8,
+        "title":"343 Sansome Roof Garden",
+        "images":[
+           "343-sansome-roof-garden.jpg"
+        ]
+    },
+ 
+    {
+       "id": 9,
+       "title":"555 California",
+       "images":[
+          "555-california.jpg"
+       ]
+    },
+ 
+    {
+        "id": 10,
+        "title":"Empire Park",
+        "images":[
+           "empire-park.jpg"
+        ]
+    },
+ 
+    {
+        "id": 11,
+        "title":"Garden Terrace at 150 California",
+        "images":[
+           "garden-terrace-at-150-california.jpg"
+        ]
+    }
+]
